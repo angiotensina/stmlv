@@ -1,0 +1,7 @@
+pymilvus
+streamlit
+langchain
+langchain_community
+langchain_openai
+langchain_milvus
+llama_parse

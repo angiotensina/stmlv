@@ -1,0 +1,1109 @@
+PRO-RADIO Año 2.                                                                                                                     MÓDULO 5 | Radiología torácica
+Experto en Radiología
+Cardiotorácica
+y Radiología Vascular
+e Intervencionista                                        5.4                                                    Manejo radiológico
+                                                                 de la enfermedad infiltrativa difusa
+
+                                                                                                                                                                     I. Herráez
+
+                         CONTENIDOS
+
+                              INTRODUCCIÓN
+                              MÉTODOS DE IMAGEN
+                                   •     Radiografía de tórax
+                                   •     TCAR
+                              INTERPRETACIÓN DE LA TCAR
+                              DIAGNÓSTICO DE CONSENSO DE LAS EPID
+                              NEUMONÍAS INTERSTICIALES IDIOPÁTICAS
+                                   •     Fibrosis pulmonar idiopática
+                                   •     Neumonía intersticial no específica (NINE) idiopática
+                                   •     Neumonía organizativa criptogenética
+                                   •     Neumonía intersticial aguda
+                                   •     Bronquiolitis respiratoria asociada a enfermedad pulmonar intersticial
+                                   •     Neumonía intersticial descamativa
+                                   •     Neumonía intersticial linfoide
+                                   •     Fibroelastosis pleuropulmonar
+                              NEUMONITIS POR HIPERSENSIBILIDAD
+                              SARCOIDOSIS
+                              ENFERMEDADES AUTOINMUNES SISTÉMICAS O CONECTIVOPATÍAS
+                              ENFERMEDADES QUÍSTICAS PULMONARES
+                                   •     Histiocitosis de células de Langerhans
+                                   •     Linfangioleiomiomatosis
+                                   •     Síndrome de Birt-Hogg-Dubé
+                              NEUMOCONIOSIS
+                                   •     Silicosis y antracosis (neumoconiosis de los trabajadores del carbón)
+                                   •     Asbestosis
+                              OTRAS EPID
+                              CONCLUSIÓN
+                              BIBLIOGRAFÍA
+             e§
+                    panamericanaEDITORIAL   MfDICAia::::)                                                                                                seram                   |  1                                        Módulo 5:            Radiología torácica
+
+                                        Tema 4:          Manejo radiológico de la enfermedad infiltrativa difusa
+
+                          (@---OBJETIVOS DE APRENDIZAJE•   Conocer qué son las enfermedades pulmonares infiltrativas difusas (EPID) y cómo se diagnos-
+                                                           tican.
+                                                     •     Saber cómo se realizan los estudios de tomografía computarizada (TC) de tórax de alta reso-
+                                                           lución (TCAR).
+                                                     •     Identificar e interpretar los patrones de afectación de las EPID en radiografía (Rx) de tórax y en
+                                                           TC de tórax de alta resolución (TCAR).
+                                                     •     Valorar si el paciente tiene o no enfermedad fibrótica y el tipo de fibrosis.
+                                                     •     Realizar el diagnóstico diferencial, integrando los datos clínicos y anatomopatológicos.
+                                                     •     Comprender cuál es la secuencia diagnóstica en el estudio de las EPID.
+                                                     •     Integrar los conocimientos en un trabajo multidisciplinar.
+
+                          INTRODUCCIÓN
+
+                                        Las EPID son un numeroso grupo de enfermedades pulmonares caracterizadas por afectación difusa del
+                                        intersticio pulmonar y afectación variable del espacio alveolar, los bronquíolos y los vasos. La mayoría no
+                                        son enfermedades intersticiales puras, por lo que el término «infiltrativas» es más adecuado que el término
+                                        «intersticiales».
+                                                 Según el tiempo de evolución pueden ser agudas, subagudas o crónicas. Unas son de causa conocida
+                                        y otras, desconocida (Tabla 5.4-1).
+                                                 Las más frecuentes son la fibrosis pulmonar idiopática, la neumonía organizativa, las asociadas a
+                                        las enfermedades autoinmunes sistémicas (conectivopatías), la neumonitis por hipersensibilidad y la
+                                        sarcoidosis.
+                                                 El término EPID no incluye el edema y la hemorragia pulmonar, las infecciones ni las neoplasias
+                                        difusas del pulmón (adenocarcinoma multifocal, linfoma, linfangitis carcinomatosa, microangiopatía
+                                        tumoral metastásica, diseminación miliar de tumor).
+
+TABLA 5.4-1.                 ClasificacióndelasEPID
+
+
+                   Causaconocida
+
+
+
+•  Neumoconiosis
+•  Neumonitis por hipersensibilidad
+•  Enfermedades autoinmunes sistémicas
+•  Por fármacos y radioterapia
+•  Hereditarias (Hermansky Pudlak)
+
+                                                                                                                   •  Neumonías intersticiales idiopáticas
+                                                                                                                   •  Otras:
+                                                                                                                       – Sarcoidosis
+                                                                                                                       – Histiocitosis de células de Langerhans
+                                                            Causanoconocida                                          – Linfangioleiomiomatosis
+                                                                                                                       – Eosinofilias pulmonares
+                                                                                                                       – Proteinosis alveolar
+                                                                                                                       – Microlitiasis alveolar
+                                                                                                                       – Amiloidosis
+
+                          MÉTODOS DE IMAGEN
+
+                                        La Rx de tórax PA y lateral y la TC de tórax de alta resolución (TCAR) son los dos métodos de imagen que
+                                        se utilizan en el diagnóstico de las EPID.
+
+                                        © EDITORIAL MÉDICA PANAMERICANA                     ■   PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  2         Módulo 5:     Radiología torácica
+
+         Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+Radiografía de tórax
+
+         Se sospecha EPID cuando en lugar de la trama broncovascular normal se ve borrosidad de esta o aparecen
+         otro tipo de imágenes: patrones nodulillar, reticular, reticulonodular, septal, de consolidaciones, nódulos
+         grandes, masas o quistes.
+               En la Rx de tórax hay superposición de múltiples estructuras, con poca correlación entre la imagen
+         radiológica y la morfología real de las lesiones; por ejemplo, las lesiones lineales o tubulares vistas
+         ortogonalmente pueden dar lugar a un patrón nodular o reticulonodular sin que realmente existan nódulos.
+         De las lesiones vistas en la Rx, tampoco se puede deducir la localización anatómica de la enfermedad
+         (intersticio o espacio aéreo), con la excepción de las líneas de Kerley, que normalmente representan
+         afectación de los septos interlobulillares. Además, en otras enfermedades no EPID pueden aparecer patrones
+         similares a las EPID (por ejemplo, el enfisema puede dar lugar a un patrón reticular en la Rx de tórax).
+
+           1•   Por tanto, la Rx de tórax sirve para detectar la presencia de enfermedad, aunque puede ser normal en
+                pacientes con EPID, pero en pocas ocasiones permite realizar el diagnóstico de una EPID concreta en
+                el contexto clínico del paciente (por ejemplo, es posible hacer el diagnóstico de neumoconiosis ante un
+                patrón nodulillar de predominio en campos superiores cuando existe el antecedente de exposición laboral o
+                ambiental). No olvidar que en la Rx de tórax es difícil diferenciar entre EPID y otras enfermedades, como el
+                edema y la hemorragia pulmonar, las infecciones, las neoplasias y el enfisema.
+
+TCAR
+
+         Se realiza cuando hay sospecha de EPID en la Rx de tórax o cuando hay sospecha clínica aunque la
+         Rx de tórax sea normal (Tabla 5.4-2). La TCAR volumétrica con TC multidetector (TCMD) proporciona
+         información de todo el pulmón, con imágenes de gran calidad y resolución similar a los cortes de las piezas
+         macroscópicas.
+
+           TABLA 5.4-2.       IndicacionesdelaTCARenlaEPID
+           1.  Estudio inicial de pacientes con Rx de tórax sospechosa de enfermedad pulmonar difusa, aguda o crónica, en los que la
+               Rx de tórax no es suficiente para establecer el diagnóstico.
+           2.  Estudio de pacientes con Rx de tórax normal o indeterminada, pero con criterios clínicos o funcionales de enfermedad
+               pulmonar.
+           3.  Valoración de enfermedad pulmonar difusa visible en la TC de tórax realizada por otra causa.
+           4.  Valoración de la actividad de la enfermedad si la Rx de tórax no aporta información suficiente.
+           5.  Valoración de la respuesta al tratamiento si la Rx de tórax no aporta información suficiente.
+           6.  Guía de sitio y tipo de bipsia.
+
+               Se realiza con el paciente en decúbito supino, en apnea mantenida al final de la inspiración, y se
+         completa con tres cortes secuenciales en espiración (a la altura del cayado aórtico, la carina principal y
+         por encima de los diafragmas). En los pacientes que no pueden mantener la apnea en dicha posición los
+         escasos segundos que dura la adquisición, el estudio se puede realizar en decúbito lateral, indicándoles
+         que realicen una respiración suave; el pulmón declive espira y suele tener más artefactos de respiración y
+         el pulmón no declive inspira y habitualmente no tiene o tiene escasos artefactos.
+
+           1•   Las imágenes en espiración sirven solo para valorar el atrapamiento aéreo y el grado de estrechamiento de
+                la vía aérea, pero no los demás patrones de afectación pulmonar, que deben interpretarse siempre en los
+                estudios en inspiración.
+
+         © EDITORIAL MÉDICA PANAMERICANA    ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  3                          Módulo 5:     Radiología torácica
+
+                          Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+                                Para mejorar la visualización de las zonas declives, especialmente de los lóbulos inferiores, y diferenciar
+                          entre verdadera enfermedad y atelectasia por el decúbito, en algunos casos estará indicado realizar TCAR
+                          en decúbito prono, limitada a la zona de interés.
+                                Las características técnicas de la TCAR incluyen corte fino (≤ 1,5 mm) y algoritmo de reconstrucción
+                          de alta resolución espacial.
+                                Además de las imágenes axiales, las reconstrucciones que ayudan a la valoración de la enfermedad
+                          pulmonar son las multiplanares de alta resolución y las de máxima y mínima intensidad de proyección
+                          (MIP y minIP). Con las MIP se valoran mejor las imágenes de mayor atenuación (nódulos) y con las minIP,
+                          las de menor atenuación (atrapamiento aéreo en enfermedad de la pequeña vía aérea, enfisema, quistes,
+                          atenuación del parénquima pulmonar).
+
+                 INTERPRETACIÓN DE LA TCAR
+
+                          Para interpretar los estudios de TCAR, en primer lugar hay que identificar cuál es el patrón o los patrones
+                          dominantes de la enfermedad (Tabla 5.4-3) y cuál es su distribución en el parénquima pulmonar, tanto en
+                          relación con el lobulillo pulmonar secundario como en los planos axial y longitudinal. En las zonas de
+                          gran confluencia de lesiones puede ser difícil valorarlo; en estos casos, es mejor elegir áreas con menos
+                          lesiones, en las que es más fácil determinar sus características morfológicas y su distribución en el lobulillo
+                          pulmonar secundario.
+
+TABLA 5.4-3.       PatronesdeEPIDenTCAR
+•  Nodulillar
+   – Al azar
+   – Linfangítico
+   – Centrolobulillar
+•  Nódulos grandes y masas
+•  Engrosamiento peribroncovascular
+•  Septal
+   – Liso, nodular o irregular
+•  Reticular
+
+•  Opacidad en vidrio deslustrado
+•  Consolidación
+•  Quistes de panal
+•  Otros quistes
+•  Atrapamiento aéreo
+•  En empedrado
+•  En mosaico
+•  En cabeza de jabalí
+
+
+                          Véase: Hansell DM, Bankier AA, MacMahon H, McLoud TC, Müller NL, Remy J. Fleischner Society: glossary of terms for thoracic imaging. Radiology. 2008; 246:697-722.
+
+                                Posteriormente, a esta información hay que añadir la existencia de otros hallazgos asociados,
+                          pulmonares y extrapulmonares, que ayudarán al diagnóstico diferencial.
+
+                            1•   Entre los hallazgos pulmonares asociados, son muy importantes los que indican la existencia de fibrosis:
+                                 quistes de panal, bronquiectasias de tracción, engrosamiento irregular de septos interlobulillares, distorsión
+                                 arquitectural y pérdida de volumen.
+
+                                Hallazgos extrapulmonares son las adenopatías, los derrames pleural y pericárdico, las lesiones de
+                          pared, óseas y extraóseas, y las lesiones en abdomen superior.
+                                El siguiente paso es la valoración de la posible actividad de la enfermedad y ver si se trata de una
+                          enfermedad posiblemente reversible o irreversible. Los quistes de panal indican siempre fibrosis pulmonar
+                          en estadio final, irreversible (Fig. 5.4-1). El patrón reticular asociado a bronquiectasias de tracción, distorsión
+                          de la arquitectura parenquimatosa, engrosamiento irregular de los septos interlobulillares o espiculación
+                          de las superficies pleurales (signo de la interfase) también representa fibrosis pulmonar (Figs. 5.4-2A y B).
+                          Se consideran hallazgos de enfermedad activa y posiblemente reversible las opacidades en vidrio
+                          deslustrado y las consolidaciones no asociadas a los signos de fibrosis descritos previamente; si el vidrio
+                          deslustrado o la consolidación se asocian a signos de fibrosis, posiblemente representan zonas de fibrosis.
+
+                          © EDITORIAL MÉDICA PANAMERICANA    ■ PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA                  |   4                  Módulo 5:                 Radiología torácica
+
+                  Tema 4:               Manejo radiológico de la enfermedad infiltrativa difusa
+
+                             Posteriormente, hay que comparar con los estudios previos del paciente, si se dispone de ellos, y, por
+                  último, valorar la información clínica: edad, sexo, historia clínica y laboral, exposición ambiental.
+                             Con toda esta información se puede realizar el diagnóstico diferencial, así como el informe radiológico,
+                  que debe ser claro y conciso e indicar las zonas más adecuadas para realizar la biopsia transbronquial o
+                  pulmonar abierta (las que corresponden a enfermedad posiblemente activa y reversible, evitando las áreas
+                  de fibrosis, especialmente las de panal).                                                                      Figura
+                                                                                                                                  Figura                                               -1-1
+                    A                                                                                                                                         B
+
+                  Figura5.4-1.Fibrosispulmonar.(A)y(B)TCARaxialesFigura endospacientesdistintos;quistesdepanal(flechasnaranjas),queFigura -2               -2
+                  representanelestadiofinaldelafibrosis.Notarlasbronquiectasiasdetracciónasociadasalpanal(flechasamarillas).
+
+                    A                                                                                                                                               B
+
+                  Figura5.4-2.Fibrosispulmonar.(A)TCARaxialendecúbitolateralderecho:patrónreticular(círculo),conbronquiectasias
+                  detracción(flechasamarillas)yengrosamientoirregulardeseptosinterlobulillares(flecharoja).(B)ReconstrucciónminIP
+                  sagital.Muestraladistribucióndelafibrosis,conbronquiectasiasdetracción,depredominiobasal.
+
+DIAGNÓSTICO DE CONSENSO DE LAS EPID
+
+                  El diagnóstico definitivo de las EPID es un proceso dinámico que debe realizarse por consenso clínico-
+                  radio-patológico. En algunos casos, los hallazgos clínicos y radiológicos son típicos (patognomónicos)
+                  de una EPID concreta y se puede establecer el tratamiento basándose en este diagnóstico no invasivo.
+                  Cuando los datos clínicos y la TCAR no coinciden, o cuando los hallazgos de TCAR no son concluyentes,
+                  es necesario realizar el examen citológico o histológico (lavado broncoalveolar, biopsia transbronquial,
+                  criobiopsia, biopsia pulmonar abierta); posteriormente hay que correlacionar los hallazgos histológicos,
+                  radiológicos y clínicos para establecer el diagnóstico final.
+
+                  © EDITORIAL MÉDICA PANAMERICANA                                    ■    PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA     |  5         Módulo 5:     Radiología torácica
+
+         Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+NEUMONÍAS INTERSTICIALES IDIOPÁTICAS
+
+         Las neumonías intersticiales idiopáticas (NII) son un grupo de ocho enfermedades inflamatorias y
+         fibrosantes de causa desconocida. Se caracterizan por los hallazgos clínicos y los patrones histológico y
+         radiológico típicos. La última clasificación internacional, publicada en 2013, incluye además dos patrones
+         histológicos raros (patrón de neumonía organizativa fibrinoide aguda y patrón de neumonía intersticial
+         bronquiolocéntica o fibrosis centrada en la vía aérea), todavía no considerados como enfermedad
+         (Tablas 5.4-4 y 5.4-5).
+               Es muy importante diferenciar «enfermedad» de «patrón radiológico o histológico». Los mismos
+         patrones radiológico e histológico pueden aparecer en distintas enfermedades, idiopáticas o de causa
+         conocida. Por tanto, para hacer el diagnóstico de una NII hay que excluir causa conocida de enfermedad.
+
+           TABLA 5.4-4.        ClasificacióndelasNII
+                                                            PRINCIPALES
+                                                            • Fibrosantes
+                                                               – Fibrosis pulmonar idiopática (FPI)
+                                                               – Neumonía intersticial no específica (NINE) idiopática
+                                                            • Agudas y subagudas
+                                                               – Neumonía organizativa criptogenética (NOC)
+                                NII                            – Neumonía intersticial aguda
+                                                            • Asociadas al tabaco
+                                                               – BREPI
+                                                               – Neumonía intersticial descamativa
+                                                            RARAS
+                                                            • Neumonía intersticial linfoide
+                                                            • Fibroelastosis pleuropulmonar
+         NII: neumonías intersticiales idiopáticas. BREPI: bronquiolitis respiratoria asociada a enfermedad pulmonar intersticial.
+
+           TABLA 5.4-5.        Patroneshistológicos/radiológicosenlasNII
+                                      Enfermedad                                                     Patrónhistológico/radiológico
+
+           •  FPI                                                                  •  Neumonía intersticial usual
+           •  NINE idiopática                                                      •  NINE
+           •  NOC                                                                  •  NO
+           •  NIA                                                                  •  Daño alveolar difuso
+           •  BREPI                                                                •  Bronquiolitis respiratoria
+           •  NID                                                                  •  NID
+           •  NIL                                                                  •  NIL
+           •  Fibroelastosis pleuropulmonar                                        •  Fibroelastosis pleuropulmonar
+         NII: neumonías intersticiales idiopáticas. FPI: fibrosis pulmonar idiopática. NINE: neumonía intersticial no específica. NOC: neumonía organizativa criptogenética.
+         NO: neumonía organizativa. BREPI: bronquiolitis respiratoria asociada a enfermedad pulmonar intersticial. NID: neumonía intersticial descamativa. NIL: neumonía
+         intersticial linfoide.
+
+Fibrosis pulmonar idiopática
+
+         La fibrosis pulmonar idiopática (FPI) es la enfermedad fibrosante crónica, progresiva, de causa desconocida,
+         limitada al pulmón, que afecta a pacientes mayores y se caracteriza por patrón radiológico o histológico
+         de neumonía intersticial usual (NIU). Los pacientes presentan disnea y crepitantes basales tipo velcro. La
+         evolución es variable e impredecible; puede ser lenta o con períodos de rápido empeoramiento, conocidos
+         como agudización o exacerbación aguda; en cualquier caso, la supervivencia es baja. Los antifibróticos
+         retardan la progresión de la enfermedad, pero el único tratamiento eficaz es el trasplante pulmonar.
+               En la Rx de tórax se puede sospechar por la presencia de patrón reticular de predominio basal, con
+         pérdida de volumen (Figs. 5.4-3A y B).
+
+         © EDITORIAL MÉDICA PANAMERICANA     ■ PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA                     |    6         Módulo 5:     Radiología torácica
+
+         Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+               En TCAR se pueden observar cuatro tipos de patrones (sociedad Fleischner, 2018):
+         •   Patrón típico de NIU: opacidades reticulares y quistes de panal, con bronquiectasias de tracción y dis-
+             tribución periférica subpleural, de predominio basal (Fig. 5.4-3C); además, no deben existir otros hallaz-
+             gos sugestivos de un diagnóstico alternativo (véase más adelante). El patrón NIU en TCAR corresponde
+             a patrón NIU histológico en casi el 100 % de los pacientes, por lo que, si no hay causa conocida de
+             fibrosis, no es necesaria la biopsia pulmonar para realizar el diagnóstico de FPI. Permite diagnosticar a
+             pacientes con enfermedad avanzada.
+
+ A                                                      B                                              C
+
+Figura5.4-3.FPIconpatrónNIU.(A)y(B)RxdetóraxPAyL:patrónreticulardepredominiobasalyperiférico.TCARaxial:patrónreticu-
+lar(círculo)yquistesdepanal(flechasnaranjas),conbronquiectasiasdetracción(flechasamarillas)ydistribuciónperiféricasubpleural.
+Ladistribucióndelaslesionesesheterogénea,conzonasrelativamenterespetadasentrelasáreasdefibrosis,ypredominaenlasbases.
+
+         •   Patrón probable NIU: incluye los mismos hallazgos que el patrón típico de NIU aunque faltan los quistes
+             de panal (Fig. 5.4-4). La probabilidad de que este patrón radiológico corresponda a patrón NIU histológico
+             es del 82-94 %. En estos casos se puede hacer el diagnóstico de FPI sin biopsia pulmonar, siempre que
+             se excluyan causas conocidas de fibrosis y exista alta probabilidad clínica de FPI (paciente varón, mayor
+             de 60 años, fumador o exfumador); esta valoración la debe realizar siempre un equipo multidisciplinar
+             experto en EPID. Se han descrito los hallazgos precisos en TCAR que debe presentar este patrón: predo-
+             minio basal de la reticulación, pero con afectación también de los lóbulos superiores; distribución hete-
+             rogénea (parcheada, alternando con zonas no afectadas, correlacionada con la heterogeneidad temporal
+             y espacial del patrón NIU histológico) y no segmentaria (sin respetar las cisuras); distorsión lobulillar;
+             presencia de bronquiectasias y bronquioloectasias de tracción. El cumplimiento estricto de estos criterios
+             permite un diagnóstico más temprano de la enfermedad, no en la fase final de panalización como ocurre
+             cuando hay patrón típico de NIU, con mayor beneficio a la acción ralentizante de los antifibróticos.
+                                                                                                              Figura 4-4
+
+         Figura5.4-4.FPIconpatrónprobableNIU.TCARaxial:patrón
+         reticular(círculo)conbronquiectasiasdetracción(flechas
+         amarillas) y distribución periférica subpleural. No se ven
+         quistesdepanal.Ladistribucióndelafibrosisesheterogénea
+         ypredominaenbases.
+
+         © EDITORIAL MÉDICA PANAMERICANA    ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA    |  7Módulo 5:    Radiología torácica
+
+Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+•  Patrón indeterminado de NIU: aparece cuando la fibrosis tiene distribución variable o difusa
+   (Figs. 5.4-5A y B), o cuando hay discretos hallazgos sugestivos de otro patrón no NIU. Para diagnosticar
+   FPI en estos pacientes es necesario realizar biopsia pulmonar, y el diagnóstico final dependerá de la
+   combinación de hallazgos radiopatológicos.Figura 4-
+                                                      Figura 4-
+ A                                                                       B
+
+Figura5.4-5.PosibleFPIconpatrónindeterminadodeNIU(realizadabiopsiapulmonar).(A)y(B)TCARaxiales:patrónreti-
+cularconbronquiectasiasdetracciónydistribuciónperibroncovascular(flechaslargas)yperiféricasubpleural(flechacor-
+ta),sinpredominiobasal.
+
+•  Hallazgos en TCAR más coherentes con otra fibrosis no FPI: ocurre cuando la fibrosis predomina en los
+   campos superiores o medios, es peribroncovascular o respeta la zona subpleural y hay cualquiera de los
+   siguientes hallazgos: consolidaciones, extenso vidrio deslustrado en ausencia de agudización, extenso
+   patrón en mosaico con atrapamiento aéreo en espiración, nódulos o quistes no de panal. Así, fibrosis
+   con distribución peribroncovascular de predominio en los campos superiores, vidrio deslustrado (en
+   ausencia de agudización) y atrapamiento aéreo en áreas no fibróticas sugiere neumonitis por hipersen-
+   sibilidad fibrótica.
+      Superpuestas a la fibrosis pueden observarse microcalcificaciones, más frecuentes en el patrón NIU.
+Comorbilidades y complicaciones de la FPI, que también pueden aparecer en otras enfermedades difusas
+fibrosantes, son la combinación de fibrosis pulmonar y enfisema en fumadores y exfumadores, el cáncer
+de pulmón y las agudizaciones o exacerbaciones agudas.
+
+  1•   Las agudizaciones son episodios agudos de empeoramiento clínico y de la función respiratoria debidos a
+       la aparición de patrón histológico de daño alveolar difuso o de neumonía organizativa sobre su patrón NIU
+       histológico. La causa puede ser desconocida o pueden existir factores desencadenantes, como proceso
+       infeccioso, aspiración o realización de biopsia pulmonar.
+       En Rx de tórax aparecen consolidaciones y en TCAR, áreas de opacidad en vidrio deslustrado parcheadas o
+       difusas y consolidaciones en zonas declives, superpuestas al patrón previo de fibrosis (Figs.5.4-6A-D). El
+       pronóstico es malo, con mortalidad del 50 % de los pacientes.
+
+      Diagnóstico diferencial: además de la FPI, otras enfermedades de causa conocida que pueden presentar
+patrón típico de NIU o probable NIU en TCAR son las enfermedades autoinmunes sistémicas (especialmente
+la artritis reumatoide), la neumonitis por hipersensibilidad fibrótica, la toxicidad a fármacos, la sarcoidosis
+estadio IV y la asbestosis.
+      Cuando la TCAR muestra patrón indeterminado de NIU, el diagnóstico diferencial debe establecerse
+con cualquier enfermedad fibrosante, fundamentalmente con la neumonitis por hipersensibilidad fibrótica,
+la neumonía intersticial no específica (NINE) y la sarcoidosis estadio IV.
+
+© EDITORIAL MÉDICA PANAMERICANA   ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  8         Módulo 5:     Radiología torácica
+
+         Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+           A                                                                         B
+
+            C                                                                        D
+
+         Figura5.4-6.Agudizacióndefibrosispulmonarinclasificable(necropsia).(A)y(B)TCARaxiales:fibrosispulmonarconpa-
+         trónindeterminadodeNIU.(C)y(D)TCARaxiales,endecúbitolateralizquierdo,enepisodiodeinsuficienciarespiratoria
+         agudadecausadesconocida:Extensasáreasdeopacidadenvidriodeslustradosuperpuestasalpatrónreticular(círculos)
+         enelpulmónderecho.Enelpulmónizquierdonosepuedenvalorarbienlasalteraciones,yaqueestáenespiración.
+
+Neumonía intersticial no específica (NINE) idiopática
+
+         La forma idiopática de esta enfermedad es menos frecuente que la asociada a conectivopatías, neumonitis
+         por hipersensibilidad crónica o toxicidad a fármacos.
+               Los pacientes, con edad media de 40-50 años y frecuentemente mujeres no fumadoras, presentan
+         disnea y tos no productiva. El patrón histológico de NINE puede mostrar predominio de la inflamación o
+         de la fibrosis, pero en cualquier caso es homogéneo, no heterogéneo como el patrón NIU. El pronóstico
+         es mejor que en la FPI.
+
+           1•   Las claves diagnósticas en TCAR son la opacidad en vidrio deslustrado y el patrón reticular con distribución
+                bilateral, simétrica y de predominio basal, asociado a bronquiectasias y bronquioloectasias de tracción; su
+                distribución en el plano axial puede ser difusa, periférica subpleural o peribroncovascular, pero hasta en el
+                20 % de los casos respeta el pulmón subpleural, hallazgo muy útil en el diagnóstico diferencial ya que es
+                excepcional en otras enfermedades fibrosantes (Figs.5.4-7AyB).
+
+         © EDITORIAL MÉDICA PANAMERICANA     ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  9         Módulo 5:    Radiología torácica
+         Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusaFigura 4-
+                                                             Figura 4-
+          A                                                                     B
+
+         Figura5.4-7.NINEidiopática.(A)TCARaxialy(B)reconstrucciónminIPaxial:patrónreticularyvidriodeslustradoconbron-
+         quiectasiasdetracciónydistribuciónperibroncovascular,depredominiobasal.Estárelativamenterespetadalazonasub-
+         pleuralenellóbuloinferiorizquierdo(flechas).
+
+              Las consolidaciones son poco frecuentes; su presencia puede deberse a componente asociado de
+         neumonía organizativa y sugiere enfermedad autoinmune sistémica. La panalización es mínima o inexistente.
+
+              Diagnóstico diferencial: con otras enfermedades fibrosantes, como la FPI con patrón indeterminado
+         de NIU y la neumonitis por hipersensibilidad fibrótica. La presencia de la zona subpleural respetada, la
+         ausencia de panalización y la ausencia de áreas de atrapamiento aéreo son características de la NINE.
+              Si predomina el vidrio deslustrado, debe diferenciarse de la neumonía intersticial descamativa.
+         Asimismo, debe diferenciarse de la fibrosis intersticial relacionada con el tabaco, que puede tener
+         distribución periférica no subpleural en los lóbulos inferiores, pero no asocia distorsión arquitectural ni
+         bronquiectasias de tracción como la NINE.
+
+Neumonía organizativa criptogenética
+
+         Además de la forma idiopática de la enfermedad hay otra forma secundaria a infecciones, enfermedades
+         autoinmunes sistémicas, toxicidad farmacológica, inhalación de tóxicos o neumonitis por radiación. Por
+         otra parte, se pueden observar áreas de patrón histológico de neumonía organizativa en otras enfermedades,
+         como en la neumonitis por hipersensibilidad, así como en la periferia de linfomas y tumores pulmonares,
+         enfermedades granulomatosas, vasculitis e infartos.
+
+          1•   Por todo ello, la presencia de patrón de neumonía organizativa en una biopsia transbronquial o pulmonar
+               no implica que la enfermedad sea una neumonía organizativa y hay que hacer una correlación muy estrecha
+               clínico-radiológica-patológica para establecer el diagnóstico de neumonía organizativa criptogenética o de
+               neumonía organizativa secundaria.
+
+              Los pacientes suelen presentar un cuadro seudogripal subagudo y muchas veces se diagnostican de
+         proceso infeccioso. El pronóstico es bueno tras tratamiento con corticoides, aunque con frecuencia hay
+         recaídas al retirar la medicación.
+              En Rx se ven consolidaciones y nódulos mal definidos, cambiantes en el tiempo, de predominio en los
+         campos pulmonares medios e inferiores.
+              La TCAR muestra consolidaciones, muchas veces con morfología en banda, con distribución
+         peribroncovascular y periférica subpleural y no subpleural (Figs. 5.4-8A y B). Tienen broncograma aéreo,
+         con bronquios dilatados, a veces arrosariados, que recuperan su morfología normal cuando cesa el proceso,
+
+         © EDITORIAL MÉDICA PANAMERICANA  ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  10               Módulo 5:            Radiología torácica
+
+               Tema 4:           Manejo radiológico de la enfermedad infiltrativa difusa
+
+               por lo que no corresponden a bronquiectasias, sino a dilataciones bronquiales transitorias. Rara vez las
+               consolidaciones presentan pequeñas cavidades. Se pueden ver también nódulos mal definidos, áreas de
+               opacidad en vidrio deslustrado, signos del halo y del halo invertido (o del atolón) (Fig. 5.4-9) y opacidadesFigura Figura            --
+               perilobulillares. En pocos casos asocian discreta reticulación y distorsión arquitectural por fibrosis.
+                 A                                                                                                              B
+
+               Figura5.4-8.Neumoníaorganizativacriptogenética.(A)y(B)TCARaxiales:consolidacionesconbroncogramaaéreo,peri-
+               broncovascularesyperiféricas,enloscamposmedioseinferiores;algunastienenmorfologíaenbanda(flechagruesa).En
+               elinteriordelasconsolidacionessevenáreasenvidriodeslustrado(flechafina).Figura 4-
+
+               Figura5.4-9.Neumoníaorganizativasecundariaatoxicidad
+               poretopósidoenpacienteconcarcinomadepulmóndecélu-
+               lapequeña.TCaxial(2mmdegrosor):pequeñasconsolida-
+               cionesyáreasdevidriodeslustradoparcheadas,condistri-
+               buciónperibroncovascularybroncogramaaéreo.Signodel
+               haloinvertido(flecha).
+
+                        Diagnóstico diferencial: con procesos infeccioso y tumoral (adenocarcinoma de crecimiento lepídico,
+               linfoma) y con otras causas de consolidaciones migratorias, como la neumonía eosinófila crónica, las
+               vasculitis y la neumonía por aspiración.
+
+Neumonía intersticial aguda
+
+               Es la NII más rápidamente progresiva, debida a patrón histológico de daño alveolar difuso de causa
+               desconocida, a diferencia del síndrome de distrés respiratorio agudo (SDRA) en el que la causa del daño
+               alveolar difuso es conocida (sepsis, transfusión, traumatismo). Los pacientes presentan fallo respiratorio
+               agudo desarrollado en días o escasas semanas, y el pronóstico es malo, con mortalidad superior al 50 %.
+                        En Rx de tórax, los hallazgos son similares al SDRA, con consolidaciones progresivas, parcheadas o
+               difusas, con tendencia a afectar a las zonas inferiores.
+
+                 1•      En TCAR se ven vidrio deslustrado bilateral, con distribución periférica, parcheada o difusa, y consolidaciones
+                         en las zonas dependientes de los pulmones. En las fases avanzadas, hay signos de fibrosis, con patrón
+                         reticular, distorsión de la arquitectura, bronquiectasias de tracción y quistes de panal, con mayor afectación
+                         de las zonas no dependientes de los pulmones.
+
+               © EDITORIAL MÉDICA PANAMERICANA                       ■   PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  11         Módulo 5:    Radiología torácica
+
+         Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+              Diagnóstico diferencial: en la fase aguda, con la infección, el edema pulmonar, la neumonía eosinófila
+         aguda y la hemorragia pulmonar. En fase avanzada, con la agudización de una fibrosis pulmonar no
+         conocida previamente.
+
+Bronquiolitis respiratoria asociada a enfermedad pulmonar intersticial
+
+         La bronquiolitis respiratoria asociada a enfermedad pulmonar intersticial (BREPI) aparece en grandes
+         fumadores y exfumadores. Se debe al cúmulo de macrófagos en los bronquíolos respiratorios y alvéolos
+         peribronquiolares (patrón histológico de bronquiolitis respiratoria).
+
+          1•   En TCAR se ven nódulos centrolobulillares con atenuación en vidrio deslustrado (Figs.5.4-10Ay B), áreas
+               parcheadas o difusas de vidrio deslustrado y atrapamiento aéreo en espiración.Figura 10
+                                                                                                      Figura 10
+          A                                                                     B
+
+         Figura5.4-10.BREPIenpacientefumador.(A)y(B)TCARaxiales:tenuesnóduloscentrolobulillares,conatenuaciónenvi-
+         driodeslustrado,enloslóbulossuperiores(flechas).
+
+              Diagnóstico diferencial: con la neumonitis por hipersensibilidad inflamatoria.
+
+Neumonía intersticial descamativa
+
+         Suele aparecer en fumadores y se diferencia de la BREPI por la mayor extensión de las lesiones, con
+         presencia de macrófagos pigmentados en todo el lobulillo pulmonar secundario (patrón histológico
+         de neumonía intersticial descamativa). En TCAR se ve vidrio deslustrado de predominio en los lóbulos
+         inferiores y, con menos frecuencia, patrón reticular.
+
+          1•   Como la neumonía intersticial descamativa forma parte del espectro de las enfermedades pulmonares por
+               tabaco, puede asociarse con lesiones de enfisema, BREPI, histiocitosis de células de Langerhans y fibrosis
+               intersticial por tabaco (vidrio deslustrado y patrón reticular, sin bronquiectasias de tracción ni distorsión
+               arquitectural, y espacios aéreos agrandados con fibrosis de la pared).
+
+              Diagnóstico diferencial: con la BREPI, la NINE y la neumonitis por hipersensibilidad inflamatoria.
+
+         © EDITORIAL MÉDICA PANAMERICANA  ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  12         Módulo 5:    Radiología torácica
+
+         Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+Neumonía intersticial linfoide
+
+         Se debe a la infiltración difusa del intersticio pulmonar, especialmente de las paredes alveolares, por
+         linfocitos y células plasmáticas. La forma idiopática es rara; ocurre con mayor frecuencia en pacientes
+         con síndrome de Sjögren y, con menor frecuencia, asociada al sida y a otras enfermedades autoinmunes,
+         como la enfermedad de Castleman, la cirrosis biliar primaria, la tiroiditis autoinmune y el lupus eritematoso
+         sistémico.
+               En TCAR pueden observarse quistes aéreos perivasculares, de pared fina, de diferentes tamaños y
+         de predominio basal (Fig. 5.4-11), mucho menos numerosos que en la linfangioleiomiomatosis y en la
+         histiocitosis de células de Langerhans, pero similares a los de la neumonitis por hipersensibilidad. Otros
+         hallazgos son opacidad en vidrio deslustrado, nódulos centrolobulillares y subpleurales y engrosamientoFigura 11
+         peribroncovascular y de septos interlobulillares.
+                                                                                          1
+                              Figura5.4-11.NIL.TCARaxial:quistesaéreosdeparedfina,perivasculares(flecha).
+
+Fibroelastosis pleuropulmonar
+
+         Es una fibrosis elástica que afecta a la pleura y el parénquima subpleural, sobre todo de los lóbulos
+         superiores.
+               En TCAR se ven bandas pleuropulmonares de predominio en los lóbulos superiores asociadas a
+         distorsión arquitectural, bronquiectasias de tracción y pérdida de volumen, con elevación de los hilios.
+
+Neumonitis por hipersensibilidad
+
+         Es la enfermedad granulomatosa que, en pacientes genéticamente predispuestos, aparece como reacción
+         de hipersensibilidad frente a determinados antígenos inhalados, orgánicos (microorganismos presentes en
+         productos animales, vegetales o en el agua; proteínas animales) o inorgánicos (compuestos químicos de
+         bajo peso molecular, como isocianatos).
+               Clásicamente, se distinguían las fases aguda, subaguda y crónica, pero actualmente, basándose en la
+         correlación clínico-radiológica-patológica, se han propuesto dos categorías: aguda / inflamatoria y crónica
+         / fibrótica.
+               El diagnóstico se basa en los síntomas inespecíficos, como disnea y tos, la historia de exposición a
+         un antígeno, los hallazgos compatibles en TCAR, la detección de anticuerpos específicos circulantes, la
+         linfocitosis en el lavado broncoalveolar y, en ocasiones, la biopsia pulmonar, con neumonitis granulomatosa
+         bronquiolocéntrica. El diagnóstico puede ser difícil, ya que el antígeno no se detecta en el 40 % de los
+         pacientes, en las fases fibróticas no suele haber linfocitosis y ninguno de los criterios aislados tiene
+         especificidad diagnóstica.
+
+         © EDITORIAL MÉDICA PANAMERICANA  ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  13Módulo 5:    Radiología torácica
+
+Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+ 1•   En TCAR, en la fase inflamatoria se ven nódulos centrolobulillares en vidrio deslustrado, con distribución
+      homogénea, de predominio en los campos pulmonares superiores y medios; en otros pacientes hay áreas
+      parcheadas o difusas de opacidad en vidrio deslustrado (Figs.5.4-12A yB). Se acompañan de lobulillos con
+      menor atenuación y vascularización y atrapamiento aéreo en espiración.Figura
+                                                 Figura                      -1
+                                                                             -1
+ A                                                                      B
+                                                       T
+Figura5.4-12.Neumonitisporhipersensibilidadinflamatoriaencultivadordesetas.(A)y(B)TCARaxiales:pequeñascon-
+solidaciones(flechablanca)yvidriodeslustrado(flechaamarilla)parcheadosynóduloscentrolobulillaresenvidriodeslus-
+trado(flechanaranja),enloscampospulmonaressuperioresymedios.
+
+      Estas alteraciones dan lugar a patrones en mosaico y en cabeza de jabalí, con áreas de diferente
+atenuación que se valoran mejor en las reconstrucciones minIP.
+      En la fase fibrótica se observan patrón reticular y quistes de panal con bronquiectasias y
+bronquioloectasias de tracción (Figs. 5.4-13A-D y Figs. 5.4-14A-C); los hallazgos típicos incluyen:
+•  Distribución peribroncovascular de la fibrosis en los lóbulos superiores.
+•  Áreas lobulillares de atrapamiento aéreo en espiración en zonas no fibróticas; su presencia en cuatro
+   o más lóbulos sugiere neumonitis por hipersensibilidad y se detecta mejor en las reconstrucciones
+   minIP multiplanares y en los cortes en espiración. En la FPI, también pueden verse pero en las zonas
+   de fibrosis.
+•  Áreas parcheadas o difusas de opacidad en vidrio deslustrado y nódulos centrolobulillares en
+   vidrio deslustrado entre las áreas de fibrosis; aparecen cuando coexisten las fases inflamatoria y
+   fibrótica.
+•  Escasos quistes aéreos de pared fina, no agrupados, localizados en las zonas de fibrosis y de opacidad
+   en vidrio deslustrado.
+•  Engrosamiento liso de septos interlobulillares sin predominio zonal.
+      Algunos pacientes pueden mostrar en TCAR patrones de NIU, NINE o neumonía organizativa.
+
+      Diagnóstico diferencial:           en la fase inflamatoria, con la bronquiolitis respiratoria asociada a
+enfermedad pulmonar intersticial, las neumoconiosis no fibrogénicas (siderosis) y las infecciones
+víricas.
+      En la fase crónica, con otras enfermedades fibrosantes, fundamentalmente la FPI, la NINE, la sarcoidosis
+y las neumonías intersticiales asociadas a las enfermedades autoinmunes sistémicas. La diferenciación entre
+neumonitis por hipersensibilidad fibrótica y la FPI tiene gran importancia, debido al diferente pronóstico y
+tratamiento (retirada del antígeno, corticoides e inmunosupresores en la neumonitis por hipersensibilidad
+crónica y antifibróticos en la FPI), aunque puede ser muy difícil y no realizarse hasta la valoración del
+pulmón explantado.
+
+© EDITORIAL MÉDICA PANAMERICANA  ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  14         Módulo 5:      Radiología torácica
+
+         Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+                                                               Figura
+                                                                       Figura
+                                                               Figura
+                                                                Figura                         -1-1-1-1
+           A                                                                           B
+                                                                                       D
+
+           C
+
+                                                                                             Figura                  -1
+
+         Figura5.4-13.Neumonitisporhipersensibilidadinflamatoriayfibróticaenpacientequetrabajóenfábricadetabacoypa-
+         nadería.(A-C)TCARaxiales:áreasparcheadasdevidriodeslustrado,másextensasenloscampospulmonaressuperiores
+         (círculo)ymenoresenlosinferiores,dondeseveclaramentesudistribuciónperibroncovascular(flechasrojas);seasocian
+         abronquiectasiasvaricosas(flechaamarilla).(D)reconstrucciónminIPcoronal:muestradedistribuciónpredominantede
+         laslesionesenloscampossuperiores.
+                                           Figura                      -1                        Figura            -1
+ A                                                        B                                                  C
+
+Figura5.4-14.Neumonitisporhipersensibilidadinflamatoriayfibróticaencuidadordecanarios.(A)y(B)TCARaxiales:patrónre-
+ticularyvidriodeslustrado(círculos)conbronquiectasiasdetracción(flechas);ladistribuciónesperiféricasubpleuralyperibron-
+covascular.(C)reconstrucciónminIPsagital:muestralaafectaciónperibroncovasculardelafibrosisenellóbulosuperior,conbron-
+quiectasiasdetracción(flechas),yelpatróndeatenuaciónencabezadejabalí,conáreasdevidriodeslustrado(círculonaranja),de
+pulmónnormal(círculoamarillo)ydeatrapamientoaéreo(círculoblanco).
+
+         © EDITORIAL MÉDICA PANAMERICANA     ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  15                                           Módulo 5:                                           Radiología torácica
+
+                                           Tema 4:                                    Manejo radiológico de la enfermedad infiltrativa difusa
+
+        SARCOIDOSIS
+
+                                           Es una enfermedad granulomatosa no necrosante de causa desconocida que afecta principalmente a los
+                                           ganglios linfáticos y el pulmón, aunque puede afectar cualquier órgano.
+                                                 1•                 La lesión fundamental de la sarcoidosis es el granuloma no necrosante con distribución linfangítica, que
+                                                                    en el pulmón provoca la aparición de un patrón nodulillar en los intersticios periférico (subpleural y septos
+                                                                    interlobulillares) y peribroncovascular (intralobulillar y extralobulillar).
+
+                                                                  No existe una prueba diagnóstica de certeza por lo que, para establecer el diagnóstico, es necesaria
+                                           la presencia de manifestaciones clínicas y funcionales, hallazgos radiológicos, muestras histológicas
+                                           compatibles obtenidas de las zonas afectadas más accesibles y exclusión de causas conocidas de granulomas.
+                                                                  Según las alteraciones visibles en la Rx de tórax, se distinguen cinco estadios que corresponden
+                                           a probabilidad decreciente de remisión espontánea de la enfermedad: 0) sin alteraciones, I) afectación
+                                           ganglionar sin afectación pulmonar, II) afectación ganglionar y pulmonar, III) afectación pulmonar sin
+                                           afectación ganglionar y IV) fibrosis pulmonar. Las adenopatías son hiliares y mediastínicas, bilaterales y
+                                           simétricas, calcificadas o no; en pacientes asintomáticos, la causa más frecuente de adenopatías hiliares
+                                           bilaterales es la sarcoidosis. La afectación pulmonar se manifiesta como patrón nodulillar o reticulonodular,
+                                           perihiliar o en los campos superiores (Fig. 5.4-15A); patrones atípicos son nódulos, masas o consolidaciones,
+                                           con o sin distorsión parenquimatosa, y patrón reticular.
+
+                                                 1•                 En TCAR con contraste IV se detecta mejor que en la Rx de tórax la afectación ganglionar, pulmonar y de la
+                                                                    vía aérea (Figs.5.4-15By Cy Figs.5.4-16A-D). Debe realizarse si los hallazgos clínicos o radiológicos son
+                                                                    atípicos, la Rx de tórax es normal pero hay sospecha de enfermedad, se sospechan complicaciones, en laFigura                                                                                                   -1
+                                                                    evaluación pretrasplante y como guía para la biopsia transbronquial o pulmonar y la punción de adenopatías
+                                                                    con ecobroncoscopia (EBUS).
+                                                                    La afectación pulmonar típica de la sarcoidosis en TCAR consiste en patrón nodulillar linfangítico en los
+                                                                    campos pulmonares superiores y medios, con distribución parcheada peribroncovascular, centrolobulillar y
+                                                                    subpleural, incluyendo las cisuras; la afectación de los septos interlobulillares es menos frecuente.Figura       -1
+Figura                                                                                                                                   -1
+             A                                                                                                                                                                               B                                                                                         C
+
+        Figura5.4-15.SarcoidosisestadioII.(A)RxdetóraxPA:patrónnodulillardepredominioenlamitadsuperiordeloscampospulmo-
+        nares.(B)TCconventanademediastino:adenopatíassubcarinalesehiliaresbilaterales(estrellas).(C)TCARaxial:patrónnoduli-
+        llarcentrolobulillar(círculo)ysubpleural,sobretodoenlacisuramenor(flecha).
+
+                                                                  La fibrosis pulmonar se manifiesta en TCAR como bandas o masas con bronquiectasias, pérdida
+                                           de volumen y distorsión arquitectural, o como patrón reticular con bronquiectasias de tracción, con o
+                                           sin quistes de panal, en campos pulmonares superiores y medios. La visualización de patrón nodulillar
+                                           linfangítico o de adenopatías hiliares y mediastínicas simétricas y bilaterales, calcificadas o no, asociados
+                                           a los signos de fibrosis apoya el diagnóstico de sarcoidosis en fase fibrótica. Rara vez, la fibrosis presenta
+                                           patrón radiológico de NIU.
+
+                                           © EDITORIAL MÉDICA PANAMERICANA                                                                                                     ■   PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA         |  16          Módulo 5:    Radiología torácica
+
+          Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+           1•   La afectación de la vía aérea se manifiesta fundamentalmente como atrapamiento aéreo en espiración, que
+                es el segundo hallazgo más frecuente después del patrón nodulillar linfangítico. Otros hallazgos menos
+                frecuentes son la hipertensión pulmonar, el derrame pleural o pericárdico y el micetoma en un quiste.
+
+                                                               Figura                           -
+                        A                                                        B
+
+        Figura                     -
+                        C                                                        D
+
+          Figura5.4-16.SarcoidosisestadioII.(A)TCdetórax,ventanademediastino:adenopatíassubcarinalesehiliaresderechas
+          concalcificacionesamorfas(flechanaranja).(B)y(C)TCAR:estenosisdelbronquiodelLSD(flecharojaenB).Estenosisdel
+          bronquiosegmentariomedialdelLMyobstruccióndelsegmentariolateral(flecharojaenC),conatelectasiasdistales.Nó-
+          dulosperibroncovasculares(flechasamarillasenC).(D)TCARconventanadehueso:afectacióndelmanubrioesternal,con
+          lesiónlíticaconcorticalconservada(flechagranate).
+
+                Diagnóstico diferencial: con la beriliosis, la silicosis y antracosis, la linfangitis carcinomatosa y el
+          linfoma y, en estadio IV, con otras enfermedades fibróticas pulmonares.
+
+ENFERMEDADES AUTOINMUNES SISTÉMICAS O CONECTIVOPATÍAS
+          Son enfermedades sistémicas con autoanticuerpos en sangre y daño en diferentes órganos. Incluyen la
+          artritis reumatoide (AR), la esclerodermia, el lupus eritematoso sistémico (LES), las miopatías inflamatorias
+          idiopáticas (polimiositis [PM] y dermatomiositis [DM]), el síndrome de Sjögren y la enfermedad mixta del
+          tejido conectivo (con hallazgos de LES, esclerodermia, AR o PM/DM).
+           1•   La afectación torácica es frecuente y puede ocasionar importante morbimortalidad. Algunas conectivopatías
+                presentan afectación vascular, de la vía aérea, pleural o hemorragia pulmonar, pero todas, con distinta
+                frecuencia, pueden causar afectación pulmonar en forma de enfermedad pulmonar difusa tipo neumonía
+                intersticial (NI), con los mismos patrones de afectación que en las NII. Para hacer el diagnóstico es
+                imprescindible la valoración multidisciplinar, incluyendo reumatólogos.
+
+          © EDITORIAL MÉDICA PANAMERICANA   ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  17         Módulo 5:     Radiología torácica
+
+         Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+               Se distinguen tres escenarios clínicos en los que hay que realizar el diagnóstico radiológico:
+         1)   NI en paciente con enfermedad autoinmune sistémica confirmada.
+         2)   NI en paciente con hallazgos sugestivos pero no definitivos de enfermedad autoinmune sistémica
+              («neumonía intersticial con hallazgos autoinmunes»).
+         3)   NI en paciente sin sospecha clínica de enfermedad autoinmune sistémica, en la que la NI precede al
+              desarrollo de la enfermedad sistémica.
+
+               1.   NI en paciente con enfermedad confirmada: la esclerodermia y la PM/DM presentan con
+         mucha frecuencia afectación pulmonar en TCAR, al contrario que el LES, en el que las NI son poco
+         frecuentes. Los patrones radiológicos e histológicos de NI que pueden aparecer en estos pacientes,
+         con más frecuencia en mujeres, son de NINE, NIU, neumonía organizativa, NIL, fibrosis centrada en
+         la vía aérea y daño alveolar difuso, solos o combinados. En conjunto, el pronóstico de las NI en las
+         conectivopatías es mejor que el de las NII.
+               Por otra parte, pueden aparecer patrones de NINE, NIU, neumonía organizativa, neumonitis por
+         hipersensibilidad o reacciones sarcoideas como resultado de toxicidad farmacológica, siendo imprescindible
+         una estrecha correlación clínico-radiológica para su correcta valoración.
+               Además, debido a la inmunodepresión, son frecuentes en estos pacientes las infecciones y las neoplasias.
+         La frecuencia de neoplasias es mayor debido a la fibrosis, sobre todo en la AR y la esclerodermia, y a la
+         etiología paraneoplásica de la PM/DM (se debe sospechar carcinoma de pulmón, mama, colon o cérvix
+         si aparece después de los 50 años). También hay mayor frecuencia de linfoma en la AR y en el síndrome
+         de Sjögren.
+               En los pacientes con enfermedades autoinmunes sistémicas y patrón de NI no se suele hacer biopsia
+         porque no cambia el manejo clínico; únicamente se realiza cuando se sospecha tumor o proceso
+         linfoproliferativo.
+
+           1•   En la AR, la NI aparece en el 5 % de los pacientes, sobre todo en varones, fumadores, con niveles altos de
+                factor reumatoide y seropositividad del péptido anticíclico citrulinado; el patrón más frecuente es el de NIU,
+                con peor pronóstico que otros patrones, aunque mejor que la FPI –NIU idiopática– (Figs.5.4-17A-C).
+                En el resto de conectivopatías, el patrón más frecuente es el de NINE (Figs. 5.4-18A y                          B). El patrón de
+                neumonía organizativa se ve con más frecuencia en la esclerodermia y la PM/DM, el de NIL en el síndrome de
+                Sjögren, el de fibrosis centrada en la vía aérea en la AR y el de daño alveolar difuso en el LES (neumonía lúpica).
+
+                                       Figura
+                                        Figura             -1-1
+ A                                                   B                                                   C
+
+Figura5.4-17.FibrosisconpatrónNIUenvarónfumadorconartritisreumatoide.(A)TCARaxialensupino:discretopatrónreticu-
+larperiféricosubpleuralenloslóbulossuperiores,conquistesdepanalsubpleurales(flechanaranja).Enfisemacentrolobulillar
+(círculo)yparaseptal.(B)TCARaxialenprono:patrónreticularyquistesdepanal(flechanaranja)conbronquiectasiasdetracción
+(flechasamarillas)ydistribuciónperiféricasubpleuraldepredominiobasal.(C)TCARaxialenprono:espaciosaéreosgrandescon
+paredbiendefinidaenelLII(estrellas),adyacentesalpatrónreticulardescrito;correspondenaespaciosaéreosconfibrosisdela
+pared(nosonquistesdepanal),enelcontextodeunafibrosisintersticialrelacionadaconeltabaco.
+
+         © EDITORIAL MÉDICA PANAMERICANA    ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA      |  18Módulo 5:            Radiología torácica
+Tema 4:           Manejo radiológico de la enfermedad infiltrativa difusaFigura  Figura                                --
+                        A                                                                                      B
+
+Figura5.4-18.FibrosisconpatrónNINEenmujerconesclerodermia.(A)TCARaxial:vidriodeslustradoytenuepatrónreti-
+cularconbronquiectasiasdetracciónenlasbasespulmonares.Estánrelativamenterespetadaslaszonassubpleurales(fle-
+chas).Esófagodilatado(estrella).(B)reconstrucciónminIPcoronal:muestraladistribuciónpredominantementebasaldelas
+alteraciones.
+
+         Los hallazgos que en TCAR ayudan a diferenciar el patrón NIU de las conectivopatías del patrón NIU
+de la FPI son el «signo del borde recto», el «signo del panal exuberante» y el «signo anterior del lóbuloFiguraFigura          -1
+                                                                                                                               -1
+superior» (Figs. 5.4-19A y B).
+           A                                                                                                            B
+
+Figura5.4-19.FibrosisconpatrónNIUenmujerconartritisreumatoide.(A)y(B)TCARaxiales:quistesdepanalcondistri-
+buciónperiféricasubpleuralenlaparteanteriordeloslóbulossuperiores(«signoanteriordellóbulosuperior»)ymuyasi-
+métricaenloslóbulosinferiores,congranpredominioenelderecho.Lapanalizacióneselhallazgodominantedelafibro-
+sis(«signodelpanalexuberante»).Noseobservael«signodelborderecto»(límitenítidodelafibrosisdelasbasesenel
+planocraneocaudal).
+
+         2.     Neumonía intersticial con hallazgos autoinmunes: paciente con NI y hallazgos sugestivos, pero no
+definitivos, de enfermedad autoinmune sistémica.
+         Ha recibido diferentes nombres en la bibliografía: EPID asociada a enfermedad indiferenciada del
+tejido conectivo, enfermedad tejido conectivo - pulmón dominante, enfermedad pulmonar intersticial con
+rasgos autoinmunes. La denominación actual (IPAF, según las siglas en inglés) se estableció en el consenso
+ATS/ERS de 2015, basado en la opinión de expertos.
+         Es más frecuente en mujeres, en pacientes < 50 años y en los que presentan patrón en TCAR /
+histológico de NINE.
+         Para realizar el diagnóstico de NI con hallazgos autoinmunes es necesario que el paciente presente
+patrón de NI en TCAR o biopsia pulmonar, que se excluyan causas conocidas de NI y que no cumpla
+criterios de ninguna conectivopatía definida y, además, que tenga como mínimo un hallazgo de al menos
+dos de los siguientes campos:
+
+© EDITORIAL MÉDICA PANAMERICANA                       ■   PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  19Módulo 5:    Radiología torácica
+
+Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+•  Clínico: afectación cutánea, artritis inflamatoria, fenómeno de Raynaud.
+•  Serológico: autoanticuerpos circulantes específicos.
+•  Morfológico:
+   –   Patrón en TCAR (NINE, neumonía organizativa, NINE + neumonía organizativa, NIL).
+   –   Patrón histológico (NINE, neumonía organizativa, NINE + neumonía organizativa, NIL, agregados
+       linfoides con centros germinales).
+   –   Afectación multicompartimental no explicada de vía aérea, vascular (hipertensión pulmonar) o sero-
+       sas (pleura, pericardio) por TCAR, ecografía, histología o pruebas de función respiratoria.
+      3.  NI en paciente sin sospecha clínica de conectivopatía: la NI precede a la enfermedad sistémica;
+es la primera manifestación de la enfermedad en 10-30 % de pacientes con miopatías inflamatorias;
+ocasionalmente, lo es en la AR y, muy rara vez, en la esclerodermia. Las manifestaciones extratorácicas
+pueden aparecer meses o años después, o pueden estar ya presentes en el momento del diagnóstico de
+la NI, pero han pasado desapercibidas a la exploración clínica. Ocurre con mayor frecuencia en mujeres
+mayores, nunca fumadoras.
+      Es importante sospechar un posible proceso autoinmune ante NI en TCAR ya que tiene implicaciones
+en el pronóstico, el tratamiento y la identificación de comorbilidades.
+
+ 1•   Se debe sospechar enfermedad autoinmune sistémica cuando en TCAR hay patrón de NINE, patrones
+      combinados (NINE + neumonía organizativa, NINE + fibrosis centrada en la vía aérea, NIL + neumonía
+      organizativa) (Figs.5.4-20A yB) u otros hallazgos asociados, como neumomediastino, enfisema subcutáneo
+      y neumotórax (DM), dilatación esofágica (esclerodermia), afectación pleural y pericárdica (lupus y AR),
+      afectación articular (AR), calcificación de partes blandas (DM/PM y esclerodermia) o hipertensión pulmonar
+      (esclerodermia).                               Figura
+                                                             Figura            - 0- 0
+    A                                                                B
+                                                                     0
+Figura5.4-20.Patronescombinadosenenfermedadmixtadeltejidoconectivo.(A)TCARaxial:pequeñasáreasparcheadas
+devidriodeslustradoypatrónreticularcondistribuciónperibronquiolarybronquioloectasias(círculos)enloslóbulossu-
+periores;elpulmónentrelaszonasafectadasesnormal(sevisualizamejorenelLSD).Laslesionespredominanenlape-
+riferiadelpulmónycorrespondenaunpatróndefibrosiscentradaenlavíaaérea.(B)TCARaxialdelmismopaciente:vi-
+drio deslustrado y fino patrón reticular con distribución más difusa en las bases, periférica no subpleural y
+peribroncovascular,conbronquiectasiasdetracción,correspondienteapatrónNINE.LoshallazgosenTCARpermitieron
+sospecharlaexistenciadeunaenfermedadautoinmunesistémica.
+
+      Diagnóstico diferencial: en pacientes con conectivopatía conocida hay que diferenciar NI-conectivopatía
+de toxicidad farmacológica, infecciones y tumores. Si no hay diagnóstico previo de conectivopatía, se debe
+sospechar cuando la TCAR muestre patrón de NINE o patrones combinados y, además, presente otros
+hallazgos extrapulmonares asociados.
+
+© EDITORIAL MÉDICA PANAMERICANA   ■ PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  20           Módulo 5:        Radiología torácica
+
+           Tema 4:       Manejo radiológico de la enfermedad infiltrativa difusa
+
+ENFERMEDADES QUÍSTICAS PULMONARES
+
+           Son enfermedades raras caracterizadas por quistes pulmonares. Las más conocidas son la histiocitosis
+           de células de Langerhans y la linfangioleiomiomatosis, pero incluyen también la neumonía intersticial
+           linfoide, el síndrome de Birt-Hogg-Dubé, el síndrome de Sjögren primario, la enfermedad por depósito de
+           cadenas ligeras, la amiloidosis, la neurofibromatosis y la enfermedad de Niemann-Pick; además, algunas
+           metástasis pulmonares pueden mostrar patrón de quistes. Su primera manifestación clínica puede ser el
+           neumotórax. Deben diferenciarse de los quistes aéreos que se presentan de forma incidental y escaso
+           número en individuos mayores asintomáticos; hay que sospechar enfermedad si los quistes son más
+           numerosos o aparecen en menores de 50 años.
+
+Histiocitosis de células de Langerhans
+
+           Es una de las enfermedades pulmonares relacionadas con el tabaco; aparece en fumadores y exfumadores,
+           aunque existe una forma no relacionada con el tabaco, descrita en pacientes con linfoma de Hodgkin
+           después de la quimioterapia y la radioterapia.
+                  Hay infiltración peribronquiolar por células inflamatorias y de Langerhans, con fibrosis asociada queFigura                      - 1
+           dilata progresivamente las luces bronquiolares, con evolución a quistes aéreos.
+             1•    La TCAR muestra nódulos densos centrolobulillares, al principio lisos y luego estrellados (Figs.5.4-21AyB),
+                   que posteriormente, debido a la dilatación de los bronquiolos, presentan radiolucencias centrales y se
+                   transforman en quistes de pared gruesa y posteriormente fina; con el tiempo confluyen y presentan
+                   formas y tamaños irregulares. Las lesiones predominan en los lóbulos superiores y respetan los senos
+                   costofrénicos.
+
+               A             Figura                          - 1                                   B
+
+           Figura5.4-21.HistiocitosisdecélulasdeLangerhansenpacientefumador.(A)y(B)TCARaxiales:nóduloscentrolobulilla-
+           res(círculosnaranjas)enamboslóbulossuperiores;lamayoríasonespiculados,algunostienenhaloenvidriodeslustra-
+           doyotrosmuestranunaradiolucenciacentralcorrespondientealbronquiolodilatado.Seventambiénpequeñasáreasde
+           enfisemacentrolobulillar(círculosamarillos),conlaarteriolaenelcentro.
+
+                  Pueden coexistir nódulos y quistes, lo que facilita el diagnóstico. Es frecuente la asociación con otras
+           lesiones de los fumadores, como el enfisema centrolobulillar, la fibrosis intersticial por tabaco y las áreas
+           en vidrio deslustrado por patrones de neumonía intersticial descamativa o de bronquiolitis respiratoria.
+
+Linfangioleiomiomatosis
+
+           Es una enfermedad de mujeres en edad fértil, aunque se ve también en posmenopaúsicas, con una forma
+           más frecuente asociada a esclerosis tuberosa y otra forma esporádica. Se debe a la proliferación de músculo
+
+           © EDITORIAL MÉDICA PANAMERICANA           ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  21         Módulo 5:    Radiología torácica
+
+         Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+         liso en el intersticio pulmonar, con afectación subsiguiente de la vía aérea, las arterias, las venas, los
+         linfáticos y la pleura. La afectación peribronquiolar ocasiona atrapamiento aéreo y formación de quistes
+         pulmonares bilaterales de diferentes tamaños.
+
+          1•   En TCAR, la imagen es característica, con quistes aéreos bilaterales, redondeados, en número variable, sin
+               predominio zonal, con afectación de los senos costofrénicos, al contrario que en la histiocitosis de células
+               de Langerhans.
+
+               Si la enfermedad está muy evolucionada, se pueden ver quistes irregulares, como los de la histiocitosis.
+         El pulmón entre los quistes es normal. Otros hallazgos menos frecuentes son el neumotórax, los nódulos
+         centrolobulillares, el derrame pleural quiloso y la ascitis quilosa. Con frecuencia se ven angiomiolipomas
+         renales, por lo que es obligada la exploración abdominal con ecografía o TC.
+
+Síndrome de Birt-Hogg-Dubé
+
+         Es una enfermedad autosómica dominante en la que se observan enfisema bulloso, quistes de pared fina
+         a menudo subpleurales y neumotórax, junto a fibrofoliculomas cutáneos, tumores renales benignos y
+         malignos, poliposis colónica y afectación coriorretiniana.
+
+NEUMOCONIOSIS
+
+         Son un grupo de enfermedades ocupacionales debidas a la inhalación de polvo mineral. Pueden ser
+         fibróticas, con mayor alteración radiológica y funcional (silicosis, antracosis, asbestosis, beriliosis, talcosis)
+         o no fibróticas, debidas a polvos inertes (hierro, estaño, bario).
+               En el mismo paciente pueden coincidir entidades diferentes, como en los mineros del carbón, en los
+         que pueden coexistir antracosis, silicosis y enfermedad pulmonar obstructiva crónica (se conoce como
+         enfermedad pulmonar por polvo de las minas de carbón).
+
+Silicosis y antracosis
+
+         Se deben a la inhalación de polvo de sílice y de carbón, respectivamente, y son indistinguibles
+         radiológicamente.
+               En Rx de tórax se ve patrón nodular de predominio en los campos superiores y adenopatías. En la
+         forma complicada aparecen nódulos grandes y masas irregulares (Fig. 5.4-22A).
+
+          1•   En TC, la neumoconiosis simple muestra patrón nodulillar linfangítico, con nodulillos densos y bien
+               definidos, centrolobulillares y subpleurales, de predominio en los segmentos apicales y posteriores de los
+               lóbulos superiores y apicales de los inferiores (Figs.5.4-23A yB). En las formas complicadas, los nodulillos
+               confluyen y aparecen nódulos mayores de 1               cm y masas irregulares (fibrosis masiva progresiva) en las
+               mismas localizaciones, que van desplazándose hacia los hilios y se acompañan de distorsión arquitectural y
+               enfisema perilesional (Fig.5.4-22B).
+
+               Pueden seguir creciendo aunque haya cesado la inhalación. Tanto el polvo de sílice como el de carbón
+         provocan destrucción pulmonar y aparición de enfisema, aunque el paciente no sea fumador.
+               En 15-20 % de autopsias de mineros del carbón se observa fibrosis difusa relacionada con el polvo;
+         en TCAR se ve patrón reticular con bronquiectasias de tracción y, en algunos casos, patrón de NIU
+         (Figs. 5.4-24A-C).
+
+         © EDITORIAL MÉDICA PANAMERICANA  ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  22         Módulo 5:      Radiología torácica               Figura                        -22
+         Tema 4:      Manejo radiológico de la enfermedad infiltrativa difusaFigura  -22
+                   A                                                             B
+
+         Figura5.4-22.Neumoconiosiscomplicadaenminerodelcarbón.(A)RxdetóraxPA:patrónnodularbilateralenlamitadsu-
+         periordeloscampospulmonares,connódulosdediferentestamañosyciertadistorsiónarquitectural.Masadecontornos
+         irregularesenelLSD(flecha),conpérdidadevolumendedicholóbulo.Hiliosprominentes,elizquierdodesflecado.(B)TCAR
+         axial:masadefibrosismasivaprogresivalocalizadaentrelossegmentosapicalyposteriordelLSD(flechagruesa),decon-
+         tornoirregular,concalcificaciones,enfisemaperilesional,retracciónpleuralyengrosamientodelagrasaextrapleural(in-
+         dicativodecronicidad)(estrella).Patróndenodulilloscentrolobulillares(círculos)yescasossubpleurales(flechafina),con
+         distorsiónarquitectural.Enfisemaparaseptal(flechacorta).Figura
+                                                                     Figura                  -2-2
+                          A                                                                      B
+
+                                                                                                      Figura                     -2
+
+         Figura5.4-23.Silicosissimple.(A)TCARaxial:nodulilloscentrolobulillaresysubpleuralesenloslóbulossuperiores.(B)Re-
+         construcciónminIPsagital:muestraladistribucióndelosnodulillos,depredominioenlaparteposterosuperiordeloscam-
+         pospulmonares.
+                                                                                                        Figura            -2
+ A                                            Figura B                    -2                                   C
+
+Figura5.4-24.Fibrosisdifusaporpolvoenpacienteconsilicosissimple.(A)y(B)TCARaxiales:fibrosisconpatrónindeterminado
+deNIU,conpatrónreticularybronquiectasiasdetracción,engrosamientoirregulardeseptosinterlobulillaresydistorsiónarqui-
+tectural,sinquistesdepanalnipredominiobasal;ladistribuciónesperiféricasubpleuralynosubpleuralyperibroncovascular.
+(C)ReconstrucciónMIPcoronal:muestraelpatróndenodulilloscentrolobulillaresysubpleurales,biendefinidos,depredominio
+apical(círculo),típicosdelaneumoconiosissimple.
+
+         © EDITORIAL MÉDICA PANAMERICANA       ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  23         Módulo 5:    Radiología torácica
+
+         Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+              Diagnóstico diferencial: con la sarcoidosis. Las masas de fibrosis masiva progresiva, con el cáncer de
+         pulmón.
+
+Asbestosis
+
+         Es la fibrosis pulmonar debida a la inhalación de amianto o asbesto, después de largos períodos de
+         exposición y latencia (al menos 20 años desde la exposición inicial). Cuanto más pequeñas sean la fibras,
+         mayor es la posibilidad de que alcancen las vías aéreas más distales y mayor es su poder fibrogénico y
+         cancerígeno.
+              En TCAR, en fases iniciales se observan nodulillos y lesiones ramificadas centrolobulillares en
+         el pulmón periférico, especialmente en las zonas posteriores de los lóbulos inferiores, debidas a
+         fibrosis peribronquiolar; posteriormente, cuando la fibrosis se extiende al resto del lobulillo y a los
+         septos interlobulillares, aparecen patrón reticular, bronquiectasias de tracción, septos interlobulillares
+         engrosados irregulares, líneas subpleurales, bandas parenquimatosas, «signo de la pata de cuervo»
+         (confluencia de bandas parenquimatosas en la pleura engrosada) y, en fases muy avanzadas,
+         panalización.
+              En ocasiones será necesario realizar TCAR en prono para diferenciar la fibrosis incipiente en las zonas
+         basales posteriores de los lóbulos inferiores de la hipoaireación por el decúbito.
+              La complicación más frecuente de la asbestosis es el cáncer de pulmón, que no debe confundirse con
+         la atelectasia redonda (adyacente a la pleura engrosada y con incurvación del haz broncovascular que llega
+         hasta ella), frecuente en estos pacientes.
+
+              Diagnóstico diferencial:          fundamentalmente con la FPI, aunque la presencia de placas pleurales
+         diafragmáticas, calcificadas o no, sirve como marcador de exposición al asbesto.
+
+OTRAS EPID
+
+         Menos frecuentes son las enfermedades pulmonares con eosinofilia, como la neumonía eosinófila crónica,
+         la toxicidad pulmonar por fármacos (http://www.pneumotox.com) (Figs. 5.4-25A y                                     B), la neumonitis
+         posradiación, la microlitiasis alveolar (Fig. 5.4-26), la proteinosis alveolar, la amiloidosis y las enfermedades
+         hereditarias como el síndrome de Hermansky-Pudlak.Figura
+                                                           Figura                 -2-2
+                    A                                                              B
+
+         Figura5.4-25.ReacciónsarcoideatrastratamientoconantiTNFenpacienteconartritisreumatoide.(A)y(B)TCARaxiales:
+         patrónnodulillarlinfangítico(centrolobulillar,subpleuralyperibroncavascular[flecha]),condistribuciónparcheadaencam-
+         possuperioresymedios.Algunosnodulillosagrupadosdanlugaral«signodelcúmulosarcoideo»(círculo).
+
+         © EDITORIAL MÉDICA PANAMERICANA  ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA    |  24          Módulo 5:    Radiología torácica
+
+          Tema 4:    Manejo radiológico de la enfermedad infiltrativa difusa
+
+                                                                       Figura            -
+
+                Figura5.4-26.Microlitiasisalveolar.TCARaxial:micronóduloscalcificadosenloslóbulosinferiores.Lalocalización
+                predominantedelosmicrolitosenlosalvéolosdelaperiferiadeloslobulillospulmonaresprovocalaaparienciade
+                septosinterlobulillaresengrosados(patrónentormentadearena).
+
+(l)f-------CONCLUSIÓN
+                    La Rx de tórax permite sospechar la existencia de EPID, aunque normalmente no es suficiente para
+                    establecer el diagnóstico. La TCAR volumétrica proporciona información de todo el parénquima
+                    pulmonar con resolución similar al estudio de la pieza macroscópica. Los primeros pasos en
+                    su interpretación son la valoración del patrón dominante de la enfermedad y la detección de
+                    hallazgos de fibrosis pulmonar. La TCAR permite identificar al grupo de pacientes que presentan
+                    fibrosis con patrón NIU y que, en el contexto clínico adecuado, se pueden diagnosticar de FPI,
+                    la enfermedad difusa fibrosante más frecuente y de peor pronóstico, sin necesidad de realizar
+                    biopsia pulmonar. Permite asimismo identificar la enfermedad posiblemente activa, sirviendo de
+                    guía para las biopsias pulmonares.
+                    El diagnóstico de las EPID requiere el trabajo conjunto de clínicos (neumólogos y reumatólogos),
+                    radiólogos y patólogos. Es un proceso dinámico, ya que a veces los hallazgos iniciales no son
+                    concluyentes y no se puede hacer el diagnóstico de una EPID concreta (EPID no clasificable), los
+                    patrones radiológicos e histológicos cambian con el tiempo, o en la evolución aparecen datos
+                    desconocidos previamente.
+
+                BIBLIOGRAFÍA
+                1.    Ahuja J, Arora D, Kanne KP, Henry TS, Godwin JD. Imaging of pulmonary manifestations of connective tissue
+                      diseases. Radiol Clin North Am. 2016; 54:1015-31.
+                2.    Chung JH, Cox ChW, Montner SM, Adegunsoye A, Oldham JM, Husain AN, et al. CT features of the usual
+                      interstitial pneumonia pattern: Differentiating connective tissue disease–associated interstitial lung disease
+                      from idiopathic pulmonary fibrosis. AJR. 2018; 210:1-7.
+                3.    Colby TV, Swensen SJ. Anatomic distribution and histopathologic patterns in diffuse lung disease: Correlation
+                      with HRCT. J Thorac Imaging. 1996; 11:1-26.
+                4.    Collard HR, Ryerson Ch J, Corte TJ, Jenkins G, Kondoh Y, Lederer DJ, et al. Acute exacerbation of idiopathic
+                      pulmonary fibrosis. An international working group report. Am J Respir Crit Care Med. 2016; 194:265-75.
+
+          © EDITORIAL MÉDICA PANAMERICANA   ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  25Módulo 5:     Radiología torácica
+
+Tema 4:     Manejo radiológico de la enfermedad infiltrativa difusa
+
+5.    Cottin V. Idiopathic interstitial pneumonias with connective tissue diseases features: A review. Respirology. 2016;
+      21:245-58.
+6.    Champlin J, Edwards R, Pipavath S. Imaging of occupational lung disease. Radiol Clin N Am. 2016; 54:1077-96.
+7.    Chung JH, Cox ChW, Montner SM, Adegunsoye A, Oldham JM, Husain An, et al. CT features of the usual interstitial
+      pneumonia pattern: Differentiating connective tissue disease-associated interstitial lung disease from idiopathic
+      pulmonary fibrosis. AJR. 2018; 210:1-7.
+8.    Egashira R, Kondo T, Hirai T, Kamochi N, Yakushiji M, Yamasaki F, et al. CT findings of thoracic manifestations of
+      primary Sjögren syndrome: radiologic-pathologic correlation. Radiographics. 2013; 33:1933-49.
+9.    Fisher A, Antoniou KM, Brown KK, Cadranel J, Corte TJ, du Bois RM, et al. An oficial European Respiratory Society/
+      American Thoracic Society research statement: interstitial pneumonia with autoinmune features. Eur Respir J.
+      2015; 46:976-87.
+10.   Girschikofsky M, Arico M, Castillo D, Chu A, Doberauer C, Fichter J, et al. Management of adult patients with
+      Langerhans cell histiocytosis: recommendations from an expert panel on behalf of Euro-Histio-Net. Orphanet J
+      Rare Dis. 2013; 8:72.
+11.   Hansell DM, Bankier AA, MacMahon H, McLoud TC, Müller NL, Remy J. Fleischner Society: glossary of terms for
+      thoracic imaging. Radiology. 2008; 246:697-722.
+12.   Herráez Ortega I, López González L. La sarcoidosis torácica. Radiología. 2011; 53:434-48.
+13.   Herráez Ortega I, Alonso Orcajo N, López González L. El «cúmulo sarcoideo». Un nuevo signo en tomografía
+      computarizada de tórax de alta resolución. Radiología. 2009; 51:495-9.
+14.   Herráez Ortega I. Enfermedad pulmonar infiltrativa difusa. En: Del Cura JL, Pedraza S, Gayete A. Radiología
+      esencial. 2ª edición. En prensa.
+15.   Ichikado K. High-resolution computed tomography findings of acute respiratory diestrés syndrome, acute interstitial
+      pneumonia, and acute exacerbation of idiopathic pulmonary fibrosis. Semin Ultrasound CT MRI. 2014; 35:39-46.
+16.   Jeong Yj, Lee KS, Chung MP, Han J, Johkoh T, Ichikado K. Chronic hypersensitivity pneumonitis and pulmonary
+      sarcoidosis: Differentiation from usual interstitial pneumonia using high-resolution computed tomography. Semin
+      Ultrasound CT MRI. 2014; 35:47-58.
+17.   Johkoh T, Sakai F, Noma S, Akira M, Fujimoto K, Watadani T, et al. Honeycombing on CT: its definitions, pathologic
+      correlation, and future direction of its diagnosis. Eur J Radiol. 2014; 83: 27-31.
+18.   Lynch DA, Sverzellati N, Travis WD, Brown KK, Colby TV, Galvin JR, et al. Diagnostic criteria for idiopathic
+      pulmonary fibrosis: A Fleischner Society White Paper. Lancet Respir Med. 2018;6:138-53.
+19.   Madan R, Matalon S, Vivero M. Spectrum of smoking-related lung diseases. J Thorac Imaging. 2016; 31:78-91.
+20.   Raghu G, Collard HR, Egan JJ, Martínez FJ, Behr J, Brown KK, et al. ATS/ERS/JRS/ALAT Committee on idiopathic
+      pulmonary fibrosis. An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based
+      guidelines for diagnosis and management. Am J Respir Crit Care Med. 2011; 183:788-824.
+21.   Romagnoli M, Nannini C, Piciucchi S, Girelli F, Gurioli C, Casoni G, et al. Idiopathic nonspecific interstitial
+      pneumonia: an interstitial lung disease associated with autoimmune disorders? Eur Respir J. 2011; 38:384-91.
+22.   Silva CI, Müller NL, Lynch DA, Curran-Everett D, Brown KK, Lee KS, et al. Chronic hypersensitivity pneumonitis:
+      Differentiation from idiopathic pulmonary fibrosis and nonspecific interstitial pneumonia by using thin-section CT.
+      Radiology. 2008; 246:288-97.
+23.   Sverzellati N, Lynch DA, Hansell DM, Johkoh T, King TE Jr, Travis WD. American Thoracic Society– European
+      Respiratory Society classification of the idiopathic interstitial pneumonias: Advances in knowledge since 2002.
+      Radiographics. 2015; 35:1849-71.
+24.   Travis WD, Costabel U, Hansell DM, King TE Jr, Lynch DA, Nicholson AG, et al. An Official American Thoracic
+      Society/European Respiratory Society Statement: Update of the International Multidisciplinary Classification of the
+      Idiopathic Interstitial Pneumonias. Am J Respir Crit Care Med. 2013; 188:733-48.
+25.   Vasakova M, Morell F, Walsh S, Leslie K, Raghu G. Hypersensitivity pneumonitis: Perspectives in diagnosis and
+      management. Am J Respir Crit Care Med. 2017; 196:680-9.
+26.   Ysamat Marfá R, Benito Ysamat A, Espejo Pérez S, Blanco Negredo M, Roldán Molina R. La patología pulmonar
+      asociada a las enfermedades del tejido conectivo. Radiología 2013; 55:107-17.
+
+© EDITORIAL MÉDICA PANAMERICANA     ■  PRO-RADIO AÑO 2. EXPERTO EN RADIOLOGÍA CARDIOTORÁCICA Y RADIOLOGÍA VASCULAR E INTERVENCIONISTA  |  26
